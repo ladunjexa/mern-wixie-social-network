@@ -273,16 +273,17 @@ Go to `client` folder and execute the following command in order to run our fron
 
 ### LOGIN & REGISTER ACTIVITIES
 
-[!Login](readme_assets/wixie-loginpage.png)
-[!Register](readme_assets/wixie-registerpage.png)
+![Login](readme_assets/wixie-loginpage.png)
+![Register](readme_assets/wixie-registerpage.png)
 
 ### USER PROFILE ACTIVITY
-[!Profile](readme_assets/wixie-userprofile.png)
+
+![Profile](readme_assets/wixie-userprofile.png)
 
 ### FEED ACTIVITY
 
-[!Dark](readme_assets/wixie-mockup-1.png)
-[!Light](readme_assets/wixie-mockup-2.png)
+![Dark](readme_assets/wixie-mockup-1.png)
+![Light](readme_assets/wixie-mockup-2.png)
 
 <!-- Contributing -->
 ## :wave: Contributing
