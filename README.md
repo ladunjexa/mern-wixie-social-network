@@ -73,9 +73,9 @@
 <!-- About the Project -->
 ## :star2: About the Project
 
-<div align="center"> 
-  <img src="readme_assets/wixie-dark.png" height="auto" width="50%" />
-  <img src="readme_assets/wixie-light.png" height="auto" width="50%" />
+<p align="center"> 
+  <img src="readme_assets/wixie-light.png" height="auto" width="45%" />
+  <img src="readme_assets/wixie-dark.png" height="auto" width="45%" />
 </div>
 <br />
 
@@ -352,4 +352,4 @@ This section used to mention useful resources and libraries (packages) that used
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-![Tablet](readme_assets/wixie-tablet.png)
+<p align="center"><img src="readme_assets/wixie-tablet.png" width="60%"></p>
