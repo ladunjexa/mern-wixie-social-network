@@ -34,7 +34,7 @@
 </p>
    
  <h4>
-    <a href="https://github.com/ladunjexa/Wixie-Social-Network/">View Demo</a>
+    <a href="https://wixie-social-network.vercel.app/">View Demo</a>
   <span> · </span>
     <a href="https://github.com/ladunjexa/Wixie-Social-Network">Documentation</a>
   <span> · </span>
