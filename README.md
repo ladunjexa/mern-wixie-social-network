@@ -62,6 +62,7 @@
 - [Getting Started](#toolbox-getting-started)
   * [Installation](#gear-installation)
   * [Run Locally](#running-run-locally)
+- [Data Model](#information_source-data-model)
 - [Media](#milky_way-media)
 - [Contributing](#wave-contributing)
 - [License](#warning-license)
@@ -277,6 +278,8 @@ it so, data model are visual representations of an enterprise's data elements (i
 Below is the Data Model for wixie.
 ![DataModel](wixie-datamodel.png)
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- Media -->
 ## :milky_way: Media
 
@@ -293,6 +296,8 @@ Below is the Data Model for wixie.
 
 ![Dark](readme_assets/wixie-mockup-1.png)
 ![Light](readme_assets/wixie-mockup-2.png)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Contributing -->
 ## :wave: Contributing
