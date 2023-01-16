@@ -278,6 +278,12 @@ it so, data model are visual representations of an enterprise's data elements (i
 Below is the Data Model for wixie.
 ![DataModel](wixie-datamodel.png)
 
+If you want to get an impression of WIXIE, you can register or log in using the following demo user details:
+```
+Email=admin@mail.com 
+Password=12344321
+```
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Media -->
