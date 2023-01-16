@@ -268,6 +268,15 @@ Go to `client` folder and execute the following command in order to run our fron
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- Data Model -->
+## :information_source: Data Model
+
+"data model" refers to the way data is organized documented, and defined within a database.
+it so, data model are visual representations of an enterprise's data elements (including their types) and the relations between them.
+
+Below is the Data Model for wixie.
+![DataModel](wixie-datamodel.png)
+
 <!-- Media -->
 ## :milky_way: Media
 
