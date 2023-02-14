@@ -147,7 +147,7 @@ using [createSlice] (reduxjs-toolkit) that accepts an initial state, an object o
 constant array of fake users & data. this data can be used to verify the integrity of the application. In the case of adding the information, it must be added only once - you can find in `index.js` file in the [mongoose.connect] command the insertion of the data, remove the comments accordingly. After running the app, return the comments because when re-running it can cause a mess in the database. in such a case, drop the collections that created in your DB and repeat the process.
 
 A reference to thus snippet (`index.js` file):
-```
+```javascript
   // add data one time
   User.insertMany(users);
   Post.insertMany(posts);
@@ -178,7 +178,7 @@ in the `.env` file you need to add `JWT_SECRET` (individual user envorinment var
 
 In order to use Wixie you have to add the following environment variable to your .env file
 
-```
+```env
 MONGO_URL=<MONGO_URL>
 JWT_SECRET=<SECRET>
 PORT=<SERVER_PORT>
@@ -279,7 +279,8 @@ Below is the Data Model for wixie.
 ![DataModel](wixie-datamodel.png)
 
 If you want to get an impression of WIXIE, you can register or log in using the following demo user details:
-```
+
+```json
 Email=admin@mail.com 
 Password=12344321
 ```
